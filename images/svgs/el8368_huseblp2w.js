@@ -1,0 +1,1 @@
+window.el8368_huseblp2w=`<svg viewBox="0 0 35 22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="22" style="position:absolute;overflow:visible;top:0;bottom:0;right:0;left:0;">  <g id="Strokecolor1" stroke="#33413A">    <path stroke-width="2px" fill="none" d="M 0,0 L 35,22"></path>  </g></svg>`;

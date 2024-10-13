@@ -1,0 +1,1 @@
+window.el8375_huseblp2w=`<svg viewBox="0 0 12 13" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="13" style="position:absolute;overflow:visible;top:0;bottom:0;right:0;left:0;">  <path fill="#33413A" d="M 6,0 C 3,0 0,3 0,7 C 0,10 3,13 6,13 C 9,13 12,10 12,7 C 12,3 9,0 6,0 Z" id="Color1"></path></svg>`;
